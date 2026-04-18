@@ -46,7 +46,6 @@ function App() {
       </nav>
 
       <section>
-        <h2>{screens[activeScreen]}</h2>
         {renderScreen()}
       </section>
     </div>

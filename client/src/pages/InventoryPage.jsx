@@ -44,7 +44,7 @@ function InventoryPage() {
 
   return (
     <div>
-      <h2>Inventory Management</h2>
+      <h2>Update Stock</h2>
 
       <select
         value={productId}
